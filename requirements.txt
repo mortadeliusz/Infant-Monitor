@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+asyncio
+pandas
+requests
+json
